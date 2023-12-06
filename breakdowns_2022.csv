@@ -1,0 +1,514 @@
+Rank,"Rank, 10 Biggest",Mode,Type of Service,NTD ID,Agency,City,State,Vehicle/Passenger Car Revenue Miles,Total Mechanical Failures,Mean Miles Between Breakdowns
+1,NA,CR,PT,10115,Northern New England Passenger Rail Authority,Portland,ME,2569623,1,2569623
+2,NA,CR,PT,30073,Virginia Railway Express,Alexandria,VA,2245812,2,1122906
+3,1,CR,DO,20078,MTA Metro-North Railroad,New York,NY,62976627,75,839688.36
+4,NA,CR,DO,50104,Northern Indiana Commuter Transportation District,Chesterton,IN,2687265,4,671816.25
+5,2,CR,DO,20100,MTA Long Island Rail Road,Jamaica,NY,62918402,97,648643.3195876288
+6,3,CR,DO,50118,Metra,Chicago,IL,17946231,47,381834.7021276596
+7,4,CR,PT,50118,Metra,Chicago,IL,20794384,74,281005.1891891892
+8,NA,CR,PT,60007,Trinity Metro,Fort Worth,TX,2472095,11,224735.9090909091
+9,NA,CR,PT,90182,Altamont Corridor Express,Stockton,CA,867991,4,216997.75
+10,NA,CR,PT,30057,Pennsylvania Department of Transportation,Harrisburg,PA,1606581,8,200822.625
+11,NA,CR,PT,50027,Metro Transit,Minneapolis,MN,157327,1,157327
+12,5,CR,PT,90134,Caltrain,San Carlos,CA,6955680,45,154570.66666666666
+13,6,CR,DO,20080,New Jersey Transit Corporation,Newark,NJ,59140432,455,129978.97142857143
+14,NA,CR,PT,90030,North County Transit District,Oceanside,CA,1583133,14,113080.92857142857
+15,7,CR,PT,90151,Metrolink,Los Angeles,CA,10684890,96,111300.9375
+16,NA,CR,DO,80001,Utah Transit Authority,Salt Lake City,UT,4202147,39,107747.35897435897
+17,NA,CR,PT,00040,Sound Transit,Seattle,WA,1832559,19,96450.47368421052
+18,8,CR,PT,10003,Massachusetts Bay Transportation Authority,Boston,MA,23837624,269,88615.70260223048
+19,NA,CR,PT,60111,Rio Metro Regional Transit District,Albuquerque,NM,1305359,16,81584.9375
+20,NA,CR,PT,40232,SunRail,Tallahassee,FL,1007930,13,77533.07692307692
+21,9,CR,PT,30034,Maryland Transit Administration,Baltimore,MD,5780429,84,68814.63095238095
+22,NA,CR,PT,60056,Dallas Area Rapid Transit,Dallas,TX,1349872,22,61357.818181818184
+23,10,CR,DO,30019,Southeastern Pennsylvania Transportation Authority,Philadelphia,PA,14712833,350,42036.665714285715
+24,NA,CR,DO,80006,Denver Regional Transportation District,Denver,CO,691396,17,40670.35294117647
+25,NA,CR,PT,80006,Denver Regional Transportation District,Denver,CO,5624470,143,39331.958041958045
+26,NA,CR,DO,90299,Sonoma-Marin Area Rail Transit District,Petaluma,CA,679245,24,28301.875
+27,NA,CR,PT,40077,South Florida Regional Transportation Authority,Pompano Beach,FL,3600940,131,27488.091603053435
+28,NA,CR,PT,10102,Connecticut Department of Transportation,Newington,CT,1187016,137,8664.350364963504
+1,1,HR,DO,30030,Washington Metropolitan Area Transit Authority,Washington,DC,53126512,301,176500.03986710965
+2,2,HR,DO,90003,San Francisco Bay Area Rapid Transit District,Oakland,CA,77158833,617,125054.83468395461
+3,3,HR,DO,30019,Southeastern Pennsylvania Transportation Authority,Philadelphia,PA,15691660,162,96862.09876543209
+4,NA,HR,DO,20099, MTA Staten Island Railway,Staten Island,NY,2444612,39,62682.35897435898
+5,4,HR,DO,90154,Metro,Los Angeles,CA,6100816,106,57554.8679245283
+6,5,HR,DO,20098,Port Authority Trans-Hudson Corporation,New York,NY,12565499,269,46711.89219330855
+7,6,HR,DO,10003,Massachusetts Bay Transportation Authority,Boston,MA,22214025,540,41137.083333333336
+8,7,HR,DO,40022,Metropolitan Atlanta Rapid Transit Authority,Atlanta,GA,17937424,1035,17330.844444444443
+9,8,HR,DO,20008,MTA New York City Transit,Brooklyn,NY,338199451,21323,15860.78183182479
+10,NA,HR,DO,20075,Port Authority Transit Corporation,Camden,NJ,4868978,314,15506.299363057326
+11,9,HR,DO,50066,Chicago Transit Authority,Chicago,IL,66984263,9454,7085.282737465623
+12,NA,HR,DO,30034,Maryland Transit Administration,Baltimore,MD,4602773,728,6322.490384615385
+13,NA,HR,DO,50015,The Greater Cleveland Regional Transit Authority,Cleveland,OH,2310279,375,6160.744
+14,NA,HR,PT,40094,Alternativa de Transporte Integrado -ATI,San Juan,PR,1744449,607,2873.886326194399
+15,10,HR,DO,40034,Transportation & Public Work,Miami,FL,7345940,2573,2855.0097162844927
+1,1,LR,DO,90154,Metro,Los Angeles,CA,13476172,341,39519.56598240469
+2,2,LR,DO,00008,Tri-County Metropolitan Transportation District of Oregon,Portland,OR,8232882,236,34885.09322033898
+3,3,LR,DO,60056,Dallas Area Rapid Transit,Dallas,TX,9593071,292,32852.982876712325
+4,4,LR,DO,00040,Sound Transit,Seattle,WA,7979291,288,27705.871527777777
+5,5,LR,DO,70006,(St. Louis) Metro,Saint Louis,MO,5642881,317,17800.88643533123
+6,6,LR,DO,50027,Metro Transit,Minneapolis,MN,3840924,238,16138.33613445378
+7,7,LR,DO,90026,San Diego Metropolitan Transit System,San Diego,CA,11626878,743,15648.557200538358
+8,8,LR,DO,80001,Utah Transit Authority,Salt Lake City,UT,6327140,406,15584.08866995074
+9,9,LR,DO,80006,Denver Regional Transportation District,Denver,CO,10061868,673,14950.769687964339
+10,NA,LR,DO,20004,Niagara Frontier Transportation Authority,Buffalo,NY,794884,79,10061.822784810127
+11,NA,LR,DO,30083,Hampton Roads Transit,Hampton,VA,345104,38,9081.684210526315
+12,NA,LR,DO,90019,Sacramento RT,Sacramento,CA,3606132,407,8860.275184275184
+13,NA,LR,DO,40008,Charlotte Area Transit System,Charlotte,NC,1648205,208,7924.0625
+14,NA,LR,DO,60008,"Metropolitan Transit Authority of Harris County, Texas",Houston,TX,2884228,374,7711.8395721925135
+15,NA,LR,PT,20080,New Jersey Transit Corporation,Newark,NJ,2087932,308,6779
+16,NA,LR,DO,30034,Maryland Transit Administration,Baltimore,MD,3110550,500,6221.1
+17,NA,LR,PT,90209,"Valley Metro Rail, Inc.",Phoenix,AZ,2896298,491,5898.773930753564
+18,NA,LR,DO,20080,New Jersey Transit Corporation,Newark,NJ,520531,141,3691.709219858156
+19,NA,LR,DO,30022,Port Authority of Allegheny County,Pittsburgh,PA,1487181,428,3474.7219626168226
+20,10,LR,DO,90015,San Francisco Municipal Transportation Agency,San Francisco,CA,4295819,1267,3390.5438042620362
+21,NA,LR,DO,90013,Santa Clara Valley Transportation Authority,San Jose,CA,1584635,682,2323.5117302052786
+22,NA,LR,DO,50015,The Greater Cleveland Regional Transit Authority,Cleveland,OH,546654,241,2268.2738589211617
+1,NA,MB,PT,30129,Anne Arundel County,Annapolis,MD,796181,1,796181
+2,NA,MB,PT,90014,Alameda-Contra Costa Transit District,Oakland,CA,401668,1,401668
+3,NA,MB,DO,30023,Beaver County Transit Authority,Rochester,PA,603078,2,301539
+4,NA,MB,PT,40104,Indian River County,Vero Beach,FL,894712,3,298237.3333333333
+5,NA,MB,PT,60108, Community & Economic Development Department,Houston,TX,746873,3,248957.66666666666
+6,NA,MB,DO,30025,County of Lackawanna Transit System,Scranton,PA,874420,4,218605
+7,NA,MB,DO,50157,Butler County Regional Transit Authority,Hamilton,OH,504999,3,168333
+8,NA,MB,DO,30095,County of Lebanon Transit Authority,Lebanon,PA,466623,3,155541
+9,NA,MB,DO,60090,Lower Rio Grande Valley Development Council,Weslaco,TX,1691587,11,153780.63636363635
+10,NA,MB,PT,10118,MetroWest Regional Transit Authority,Framingham,MA,992541,8,124067.625
+11,NA,MB,PT,10003,Massachusetts Bay Transportation Authority,Boston,MA,1154331,10,115433.1
+12,NA,MB,DO,20006,City of Long Beach,Long Beach,NY,223917,2,111958.5
+13,NA,MB,PT,90087,Santa Maria Area Transit,Santa Maria,CA,781517,7,111645.28571428571
+14,NA,MB,DO,30013,Erie Metropolitan Transit Authority,Erie,PA,1656229,15,110415.26666666666
+15,NA,MB,PT,80001,Utah Transit Authority,Salt Lake City,UT,310995,3,103665
+16,NA,MB,DO,90043,City of Commerce Municipal Buslines,Commerce,CA,386368,4,96592
+17,NA,MB,PT,40077,South Florida Regional Transportation Authority,Pompano Beach,FL,94070,1,94070
+18,NA,MB,PT,90062,Monterey-Salinas Transit,Monterey,CA,613526,7,87646.57142857143
+19,NA,MB,DO,50051,CityBus,Lafayette,IN,1654268,19,87066.73684210527
+20,NA,MB,DO,60006,Sun Metro,El Paso,TX,5132169,60,85536.15
+21,NA,MB,PT,90061,Yuba-Sutter Transit Authority,Marysville,CA,506702,6,84450.33333333333
+22,NA,MB,PT,40185,Bayway,Panama City,FL,494953,6,82492.16666666667
+23,NA,MB,DO,30076,Williamsburg Area Transit Authority,Williamsburg,VA,797889,10,79788.9
+24,NA,MB,DO,30087,Fayette Area Coordinated Transportation,Uniontown,PA,461456,6,76909.33333333333
+25,NA,MB,PT,30075,Delaware Transit Corporation,Dover,DE,1633102,24,68045.91666666667
+26,NA,MB,DO,40025,Chatham Area Transit Authority,Savannah,GA,1883559,29,64950.31034482759
+27,NA,MB,DO,00020,Kitsap Transit,Bremerton,WA,2138930,37,57808.91891891892
+28,NA,MB,PT,40147,North Carolina State University,Raleigh,NC,520151,9,57794.555555555555
+29,NA,MB,DO,50211,Rides Mass Transit District,Harrisburg,IL,3168576,56,56581.71428571428
+30,NA,MB,PT,40192,Martin County,Stuart,FL,440114,8,55014.25
+31,NA,MB,DO,80008,Cities Area Transit,Grand Forks,ND,384263,7,54894.71428571428
+32,NA,MB,DO,00019,Intercity Transit,Olympia,WA,2511636,47,53439.063829787236
+33,NA,MB,DO,50054,Muncie Indiana Transit System,Muncie,IN,687719,13,52901.46153846154
+34,NA,MB,DO,50204,Jackson County Mass Transit District,Carbondale,IL,349297,7,49899.57142857143
+35,NA,MB,DO,70012,Sioux City Transit System,Sioux City,IA,579880,12,48323.333333333336
+36,NA,MB,PT,40108,GoTriangle,Durham,NC,241470,5,48294
+37,NA,MB,PT,90091,Visalia Transit,Visalia,CA,1752750,37,47371.62162162162
+38,NA,MB,DO,90016,"Golden Gate Bridge, Highway and Transportation District",San Francisco,CA,2099125,45,46647.22222222222
+39,NA,MB,PT,60088,Jefferson Transit,Gretna,LA,1757270,38,46243.94736842105
+40,NA,MB,PT,90310,Tulare County Regional Transit Agency,Visalia,CA,689326,15,45955.066666666666
+41,NA,MB,PT,90226,Imperial County Transportation Commission,El Centro,CA,815477,18,45304.27777777778
+42,NA,MB,DO,60009,El Metro,Laredo,TX,1681434,38,44248.26315789474
+43,NA,MB,PT,10053,Cape Ann Transportation Authority,Gloucester,MA,377470,9,41941.11111111111
+44,NA,MB,PT,90088,Napa Valley Transportation Authority,Napa,CA,655538,16,40971.125
+45,NA,MB,DO,60051,The B,Corpus Christi,TX,2235666,57,39222.21052631579
+46,NA,MB,PT,90164,Ventura County Transportation Commission,Camarillo,CA,116476,3,38825.333333333336
+47,NA,MB,DO,40063,Space Coast Area Transit,Titusville,FL,2092444,54,38748.96296296296
+48,NA,MB,DO,50040,Ann Arbor Area Transportation Authority,Ann Arbor,MI,3323116,88,37762.681818181816
+49,NA,MB,DO,10051,Housatonic Area Regional Transit,Danbury,CT,980244,27,36305.333333333336
+50,NA,MB,PT,50176,City of DeKalb,Dekalb,IL,718568,20,35928.4
+51,NA,MB,PT,40078,CobbLinc,Marietta,GA,2974458,83,35836.843373493975
+52,NA,MB,PT,10005,Lowell Regional Transit Authority,Lowell,MA,1104810,31,35639.032258064515
+53,NA,MB,DO,40028,LeeTran,Fort Myers,FL,2851565,81,35204.50617283951
+54,NA,MB,PT,30088,"County Commissioners of Charles County, MD",La Plata,MD,1325916,38,34892.52631578947
+55,NA,MB,PT,10013,Merrimack Valley Regional Transit Authority,Haverhill,MA,1429161,41,34857.58536585366
+56,NA,MB,PT,40082,Connect Douglas,Douglasville,GA,342296,10,34229.6
+57,NA,MB,DO,40208,Clemson Area Transit,Clemson,SC,674809,20,33740.45
+58,NA,MB,PT,20096,Putnam Area Rapid Transit,Carmel,NY,431834,13,33218
+59,NA,MB,PT,30205,"Transit Management of Central Maryland, Inc.",Annapolis Junction,MD,1409235,44,32028.06818181818
+60,NA,MB,DO,50021,Portage Area Regional Transportation Authority,Kent,OH,672463,21,32022.04761904762
+61,NA,MB,DO,30011,AMTRAN,Altoona,PA,540887,17,31816.882352941175
+62,NA,MB,DO,00044,Skagit Transit,Burlington,WA,822724,26,31643.23076923077
+63,NA,MB,DO,20166,"Orange-Newark-Elizabeth, Inc.",Elizabeth,NJ,758117,24,31588.208333333332
+64,NA,MB,PT,40035,Central Florida Regional Transportation Authority,Orlando,FL,409729,13,31517.615384615383
+65,NA,MB,PT,44929,City of Fort Lauderdale,Fort Lauderdale,FL,157300,5,31460
+66,NA,MB,PT,90162,Tri Delta Transit,Antioch,CA,1778037,57,31193.63157894737
+67,NA,MB,DO,00046,South Metro Area Regional Transit,Wilsonville,OR,560484,18,31138
+68,NA,MB,DO,40044,The M (Montgomery Area Transit System),Montgomery,AL,1209267,39,31006.846153846152
+69,NA,MB,DO,00057,Central Oregon Intergovernmental Council,Bend,OR,30900,1,30900
+70,NA,MB,PT,40093,Greensboro Transit Authority,Greensboro,NC,2165564,72,30077.277777777777
+71,NA,MB,PT,30025,County of Lackawanna Transit System,Scranton,PA,175812,6,29302
+72,NA,MB,PT,10061,Montachusett Regional Transit Authority,Fitchburg,MA,821694,30,27389.8
+73,NA,MB,PT,90144,Livermore / Amador Valley Transit Authority,Livermore,CA,1225468,45,27232.62222222222
+74,NA,MB,PT,90201,Turlock Transit,Turlock,CA,270109,10,27010.9
+75,NA,MB,PT,50146,Madison County Transit District,Pontoon Beach,IL,3486787,131,26616.69465648855
+76,NA,MB,PT,99423,City of Glendale,Glendale,CA,871699,33,26415.121212121212
+77,NA,MB,DO,30044,Westmoreland County Transit Authority,Greensburg,PA,920231,35,26292.314285714285
+78,NA,MB,DO,50002,Green Bay Metro,Green Bay,WI,758549,29,26156.862068965518
+79,NA,MB,DO,70006,(St. Louis) Metro,Saint Louis,MO,13742899,528,26028.217803030304
+80,NA,MB,DO,50024,Western Reserve Transit Authority,Youngstown,OH,1923687,74,25995.77027027027
+81,NA,MB,DO,30008,Greater Lynchburg Transit Company,Lynchburg,VA,949794,37,25670.108108108107
+82,NA,MB,PT,90093,Redding Area Bus Authority,Redding,CA,679744,27,25175.703703703704
+83,NA,MB,DO,10003,Massachusetts Bay Transportation Authority,Boston,MA,20031415,823,24339.507897934385
+84,NA,MB,DO,90196,Placer County Department of Public Works,Auburn,CA,1228383,51,24085.941176470587
+85,NA,MB,DO,40019,Transit Authority of Northern Kentucky,Covington,KY,2763105,117,23616.28205128205
+86,NA,MB,DO,90009,San Mateo County Transit District,San Carlos,CA,4154942,177,23474.248587570622
+87,NA,MB,DO,60077,Santa Fe Trails,NA,NM,551283,24,22970.125
+88,NA,MB,PT,90208,Butte County Association of Governments,Chico,CA,986322,43,22937.720930232557
+89,NA,MB,PT,90213,Petaluma Transit,Petaluma,CA,223366,10,22336.6
+90,NA,MB,PT,60007,Trinity Metro,Fort Worth,TX,218830,10,21883
+91,NA,MB,PT,90009,San Mateo County Transit District,San Carlos,CA,1913356,88,21742.68181818182
+92,NA,MB,DO,00043,Link Transit,Wenatchee,WA,2091092,97,21557.649484536083
+93,NA,MB,PT,90090,Yolo County Transportation District,Woodland,CA,1387597,65,21347.646153846155
+94,NA,MB,PT,30019,Southeastern Pennsylvania Transportation Authority,Philadelphia,PA,127940,6,21323.333333333332
+95,NA,MB,DO,60102,Concho Valley Transit District,San Angelo,TX,400944,19,21102.315789473683
+96,NA,MB,DO,40040,Jacksonville Transportation Authority,Jacksonville,FL,7652863,363,21082.267217630855
+97,NA,MB,DO,20010,Dutchess County Public Transit,Poughkeepsie,NY,1228538,59,20822.677966101695
+98,NA,MB,DO,50043,METS,Evansville,IN,1019624,49,20808.65306122449
+99,NA,MB,DO,40053,Greenlink,Greenville,SC,984775,49,20097.448979591838
+100,NA,MB,PT,80011,Transfort,Fort Collins,CO,99774,5,19954.8
+101,NA,MB,DO,60059,Brazos Transit District,Bryan,TX,944409,49,19273.65306122449
+102,NA,MB,DO,10107,Milford Transit District,Milford,CT,287759,15,19183.933333333334
+103,NA,MB,DO,50029,Bay Metropolitan Transit Authority,Bay City,MI,708180,37,19140
+104,NA,MB,DO,30096,The Tri-County Council for the Lower Eastern Shore of Maryland,Salisbury,MD,1108960,58,19120
+105,NA,MB,DO,20113,RTS Monroe (MB) and RTS Access (DR),Rochester,NY,4389376,233,18838.523605150214
+106,NA,MB,PT,00025,Salem-Keizer Transit or Cherriots,Salem,OR,451728,24,18822
+107,NA,MB,DO,60012,"Waco Transit System, Inc.",Waco,TX,781781,42,18613.833333333332
+108,NA,MB,DO,90062,Monterey-Salinas Transit,Monterey,CA,2251510,122,18455
+109,NA,MB,DO,50145,City of Kokomo,Kokomo,IN,166052,9,18450.222222222223
+110,NA,MB,DO,30071,City of Alexandria,Alexandria,VA,2407096,132,18235.575757575756
+111,NA,MB,PT,40029,Broward County Transit Division,Fort Lauderdale,FL,236296,13,18176.615384615383
+112,NA,MB,DO,50096,Waukesha Metro Transit,Waukesha,WI,632480,35,18070.85714285714
+113,NA,MB,DO,60095,Golden Crescent Regional Planning Commission,Victoria,TX,360570,20,18028.5
+114,NA,MB,DO,40027,Pinellas Suncoast Transit Authority,Saint Petersburg,FL,8754054,492,17792.79268292683
+115,NA,MB,PT,60016,Beaumont Municipal Transit System,Beaumont,TX,692654,39,17760.358974358973
+116,NA,MB,DO,00016,RiverCities Transit,Longview,WA,347971,20,17398.55
+117,NA,MB,PT,90159,Western Contra Costa Transit Authority,Pinole,CA,838107,49,17104.224489795917
+118,NA,MB,DO,40074,Pasco County Public Transportation,New Port Richey,FL,1486346,87,17084.436781609194
+119,NA,MB,DO,50032,Mass Transportation Authority,Flint,MI,3439696,202,17028.19801980198
+120,NA,MB,DO,50198,Medina County Public Transit,Medina,OH,185909,11,16900.81818181818
+121,NA,MB,PT,50061,Decatur Public Transit System,Decatur,IL,960665,58,16563.189655172413
+122,NA,MB,PT,30081,Loudoun County Transit,Leesburg,VA,1007681,61,16519.360655737706
+123,NA,MB,DO,30007,Greater Roanoke Transit Company,Roanoke,VA,1668204,103,16196.155339805826
+124,NA,MB,DO,70049,River Bend Transit,Davenport,IA,64089,4,16022.25
+125,NA,MB,DO,40051,Chapel Hill Transit,Chapel Hill,NC,1567493,98,15994.826530612245
+126,NA,MB,PT,30111,Freedom Transit,Washington,PA,347788,22,15808.545454545454
+127,NA,MB,PT,40036,StarMetro,Tallahassee,FL,47036,3,15678.666666666666
+128,NA,MB,PT,50516,City of Plymouth,Minneapolis,MN,344813,22,15673.318181818182
+129,NA,MB,PT,00057,Central Oregon Intergovernmental Council,Bend,OR,233804,15,15586.933333333332
+130,NA,MB,PT,90234,Marin County Transit District,San Rafael,CA,2844726,185,15376.897297297297
+131,NA,MB,DO,60134,The Woodlands Township,Spring,TX,92259,6,15376.5
+132,NA,MB,DO,60017,EMBARK,Oklahoma City,OK,3292511,215,15314.004651162792
+133,NA,MB,DO,20192,Bergen County Community Transportation,Hackensack,NJ,61220,4,15305
+134,NA,MB,PT,90200,Kings County Area Public Transit Agency,Hanford,CA,747231,49,15249.612244897959
+135,NA,MB,PT,50113,Pace - Suburban Bus Division,Arlington Heights,IL,894498,59,15160.983050847457
+136,NA,MB,PT,90045,Regional Transportation Commission of Southern Nevada,Las Vegas,NV,17881034,1200,14900.861666666666
+137,NA,MB,PT,00011,Valley Regional Transit,Meridian,ID,1398420,94,14876.808510638299
+138,NA,MB,DO,20209,Somerset County Transportation,Somerville,NJ,310963,21,14807.761904761905
+139,NA,MB,DO,90006,Santa Cruz Metropolitan Transit District,Santa Cruz,CA,2210921,151,14641.860927152318
+140,NA,MB,DO,00025,Salem-Keizer Transit or Cherriots,Salem,OR,2268251,155,14633.877419354838
+141,NA,MB,DO,50015,The Greater Cleveland Regional Transit Authority,Cleveland,OH,13125384,907,14471.20617420066
+142,NA,MB,PT,10105,Cape Cod Regional Transit Authority,Hyannis,MA,1681073,117,14368.145299145299
+143,NA,MB,PT,50050,Indianapolis and Marion County Public Transportation,Indianapolis,IN,114157,8,14269.625
+144,NA,MB,PT,40110,Charleston Area Regional Transportation Authority,North Charleston,SC,2387117,170,14041.864705882354
+145,NA,MB,PT,90089,Sonoma County Transit,Santa Rosa,CA,1304672,93,14028.731182795698
+146,NA,MB,PT,22930,New York City Economic Development Corporation,New York,NY,112170,8,14021.25
+147,NA,MB,PT,00007,Lane Transit District,Eugene,OR,98038,7,14005.42857142857
+148,NA,MB,PT,90232,Solano County Transit,Vallejo,CA,516624,37,13962.81081081081
+149,NA,MB,PT,40040,Jacksonville Transportation Authority,Jacksonville,FL,208725,15,13915
+150,NA,MB,PT,90121,Antelope Valley Transit Authority,Lancaster,CA,2149561,155,13868.135483870969
+151,NA,MB,PT,90001,Regional Transportation Commission of Washoe County,Reno,NV,1934646,144,13435.041666666666
+152,NA,MB,PT,30014,Capital Area Transit,NA,PA,67005,5,13401
+153,NA,MB,DO,10066,Green Mountain Transit Authority,Burlington,VT,1363748,102,13370.078431372549
+154,NA,MB,DO,90206,San Luis Obispo Regional Transit Authority,San Luis Obispo,CA,1199539,90,13328.211111111112
+155,NA,MB,DO,70014,Topeka Metropolitan Transit Authority,Topeka,KS,795313,60,13255.216666666667
+156,NA,MB,PT,50154,Metropolitan Council,Minneapolis,MN,2833802,215,13180.474418604652
+157,NA,MB,DO,00021,Whatcom Transportation Authority,Bellingham,WA,2133859,163,13091.159509202455
+158,NA,MB,DO,60024,Shreveport Area Transit System,Shreveport,LA,1988803,152,13084.230263157895
+159,NA,MB,PT,90032,Valley Metro,Phoenix,AZ,19882203,1522,13063.208278580814
+160,NA,MB,PT,80006,Denver Regional Transportation District,Denver,CO,10877523,836,13011.39114832536
+161,NA,MB,DO,20145,Tompkins Consolidated Area Transit,Ithaca,NY,1407905,110,12799.136363636364
+162,NA,MB,DO,40043,THE WAVE TRANSIT SYSTEM,Mobile,AL,1103079,87,12679.068965517241
+163,NA,MB,DO,00034,Rogue Valley Transportation District,Medford,OR,1189498,94,12654.234042553191
+164,NA,MB,DO,50039,Saginaw Transit Authority Regional Service,Saginaw,MI,629965,50,12599.3
+165,NA,MB,PT,40087,GoDurham,Durham,NC,2313822,184,12575.119565217392
+166,NA,MB,DO,50028,Metro Bus,Saint Cloud,MN,980663,78,12572.602564102564
+167,NA,MB,PT,40128,Emerald Coast Rider,Crestview,FL,377166,30,12572.2
+168,NA,MB,DO,60033,Rock Region Metropolitan Transit Authority,North Little Rock,AR,1776910,144,12339.652777777777
+169,NA,MB,DO,10098,"Western Maine Transportation Services, Inc.",Auburn,ME,147142,12,12261.833333333334
+170,NA,MB,PT,20084,Public Transportation - Transport of Rockland,New City,NY,1848240,151,12240
+171,NA,MB,PT,40027,Pinellas Suncoast Transit Authority,Saint Petersburg,FL,474956,39,12178.358974358975
+172,NA,MB,PT,70048,City of Lawrence,Lawrence,KS,907072,76,11935.157894736842
+173,NA,MB,DO,10128,Connecticut Department of Transportation- CTTransit Waterbury- NET,Watertown,CT,1347694,113,11926.495575221239
+174,NA,MB,DO,10183,"Woods Hole, Martha's Vineyard and Nantucket Steamship Authority",Falmouth,MA,321765,27,11917.222222222223
+175,NA,MB,PT,50026,Metropolitan Area Transit,Moorhead,MN,436712,37,11803.027027027027
+176,NA,MB,DO,50113,Pace - Suburban Bus Division,Arlington Heights,IL,21099865,1796,11748.254454342985
+177,NA,MB,DO,40030,Regional Transit System,Gainesville,FL,3139795,268,11715.652985074626
+178,NA,MB,DO,50110,Bloomington Public Transportation Corporation,Bloomington,IN,906881,78,11626.679487179486
+179,NA,MB,DO,50044,Fort Wayne Public Transportation Corporation,Fort Wayne,IN,1346468,118,11410.745762711864
+180,NA,MB,DO,80006,Denver Regional Transportation District,Denver,CO,14487565,1271,11398.556254917388
+181,NA,MB,DO,70018,Iowa City Transit,Iowa City,IA,717837,63,11394.238095238095
+182,NA,MB,DO,40108,GoTriangle,Durham,NC,2024127,181,11183.022099447513
+183,NA,MB,PT,60018,Metropolitan Tulsa Transit Authority,Tulsa,OK,288928,26,11112.615384615385
+184,NA,MB,PT,40007,GoRaleigh,Raleigh,NC,3921446,356,11015.297752808989
+185,NA,MB,DO,90020,Santa Barbara Metropolitan Transit District,Santa Barbara,CA,2237670,204,10968.970588235294
+186,NA,MB,DO,90017,City of Santa Rosa,Santa Rosa,CA,734176,67,10957.850746268658
+187,NA,MB,PT,10130,Connecticut Department of Transportation -CTTRANSIT New Britain,Berlin,CT,788201,72,10947.236111111111
+188,NA,MB,DO,30035,Ohio Valley Regional Transportation Authority,Wheeling,WV,754992,69,10941.91304347826
+189,NA,MB,DO,90078,COUNTY CONNECTION,Concord,CA,2082268,192,10845.145833333334
+190,NA,MB,PT,60051,The B,Corpus Christi,TX,628863,58,10842.465517241379
+191,NA,MB,DO,90015,San Francisco Municipal Transportation Agency,San Francisco,CA,12259450,1131,10839.478337754199
+192,NA,MB,PT,60269,Texas State University,San Marcos,TX,691466,64,10804.15625
+193,NA,MB,PT,70035,Johnson County Transit,Olathe,KS,985143,92,10708.076086956522
+194,NA,MB,DO,60007,Trinity Metro,Fort Worth,TX,5491227,514,10683.321011673152
+195,NA,MB,DO,40002,Knoxville Area Transit,Knoxville,TN,2448097,230,10643.9
+196,NA,MB,PT,80003,Metropolitan Area Transit,Fargo,ND,794727,75,10596.36
+197,NA,MB,DO,20178,Ulster County,Kingston,NY,942925,89,10594.662921348314
+198,NA,MB,PT,10064,Greater Attleboro-Taunton Regional Transit Authority,Taunton,MA,1125861,107,10522.065420560748
+199,NA,MB,DO,40037,"Palm Tran, Inc.",West Palm Beach,FL,7296517,695,10498.58561151079
+200,NA,MB,DO,40038,Escambia County Area Transit Authority,Pensacola,FL,1208652,116,10419.413793103447
+201,NA,MB,DO,50053,Terre Haute Transit Utility,Terre Haute,IN,383137,37,10355.054054054053
+202,NA,MB,PT,20080,New Jersey Transit Corporation,Newark,NJ,6782440,655,10354.870229007634
+203,NA,MB,PT,50515,University of Minnesota Transit,Minneapolis,MN,546331,53,10308.132075471698
+204,NA,MB,DO,30054,Centre Area Transportation Authority,State College,PA,1566042,153,10235.56862745098
+205,NA,MB,DO,60111,Rio Metro Regional Transit District,Albuquerque,NM,162509,16,10156.8125
+206,NA,MB,PT,90030,North County Transit District,Oceanside,CA,5253714,518,10142.305019305019
+207,NA,MB,DO,30010,Lehigh and Northampton Transportation Authority,Allentown,PA,3256828,322,10114.372670807454
+208,NA,MB,DO,90019,Sacramento RT,Sacramento,CA,7320594,725,10097.371034482758
+209,NA,MB,DO,50148,Blue Water Area Transit,Port Huron,MI,392995,39,10076.794871794871
+210,NA,MB,PT,99424,Pasadena Transit,Pasadena,CA,739633,74,9995.04054054054
+211,NA,MB,PT,50092,Rochester Public Transit,Rochester,MN,1496570,150,9977.133333333333
+212,NA,MB,PT,50518,SouthWest Transit,Eden Prairie,MN,478424,48,9967.166666666666
+213,NA,MB,PT,90173,Merced The Bus,Merced,CA,1619710,164,9876.280487804877
+214,NA,MB,PT,40140,Collier Area Transit,Naples,FL,1381925,140,9870.892857142857
+215,NA,MB,PT,20072,Dept of Public Works - Transportation Division,Yaphank,NY,7217376,733,9846.351978171897
+216,NA,MB,PT,40138,Ride Gwinnett,Lawrenceville,GA,1674899,171,9794.730994152047
+217,NA,MB,PT,00001,King County Metro,Seattle,WA,907697,93,9760.182795698925
+218,NA,MB,DO,70008,Cedar Rapids Transit,Cedar Rapids,IA,968950,100,9689.5
+219,NA,MB,DO,20018,New York Regional Transportation Authority,NA,NY,4201196,434,9680.175115207374
+220,NA,MB,PT,90154,Metro,Los Angeles,CA,5419931,566,9575.849823321554
+221,NA,MB,DO,30072,TransIT Services of Frederick County,Frederick,MD,762044,81,9407.95061728395
+222,NA,MB,DO,30137,Monroe County Transportation  Authority,Swiftwater,PA,384696,41,9382.829268292682
+223,NA,MB,PT,50519,Minnesota Valley Transit Authority,Burnsville,MN,3062719,327,9366.113149847095
+224,NA,MB,DO,80001,Utah Transit Authority,Salt Lake City,UT,15613707,1678,9304.9505363528
+225,NA,MB,DO,30026,River Valley Transit,Williamsport,PA,855910,92,9303.369565217392
+226,NA,MB,PT,90131,Scottsdale Trolley,Scottsdale,AZ,530264,57,9302.877192982456
+227,NA,MB,PT,90214,Beach Cities Transit,Redondo Beach,CA,395163,43,9189.837209302326
+228,NA,MB,DO,40172,Greenway Public Transportation,Conover,NC,336686,37,9099.621621621622
+229,NA,MB,PT,30080,Arlington Transit,Arlington,VA,1829634,203,9012.975369458129
+230,NA,MB,PT,90029,Omnitrans,San Bernardino,CA,401860,45,8930.222222222223
+231,NA,MB,DO,90142,ASUCD-Unitrans,Davis,CA,613801,71,8645.084507042253
+232,NA,MB,PT,90148,Victor Valley Transit Authority,Hesperia,CA,2697200,312,8644.871794871795
+233,NA,MB,DO,30014,Capital Area Transit,NA,PA,1787823,207,8636.826086956522
+234,NA,MB,DO,50036,Capital Area Transportation Authority,Lansing,MI,3402179,396,8591.361111111111
+235,NA,MB,DO,40017,Lextran,Lexington,KY,1803824,211,8548.928909952607
+236,NA,MB,PT,90036,Orange County Transportation Authority,Orange,CA,6108497,724,8437.150552486188
+237,1,MB,DO,20080,New Jersey Transit Corporation,Newark,NJ,74356213,8875,8378.164845070423
+238,NA,MB,DO,00008,Tri-County Metropolitan Transportation District of Oregon,Portland,OR,20225984,2436,8302.949096880131
+239,NA,MB,PT,40006,Wave Transit,Wilmington,NC,1164173,142,8198.401408450703
+240,2,MB,DO,20008,MTA New York City Transit,Brooklyn,NY,82638609,10095,8186.093016344725
+241,NA,MB,DO,50001,Valley Transit,Appleton,WI,835770,103,8114.271844660194
+242,NA,MB,PT,10087,Nashua Transit System,Nashua,NH,470309,58,8108.775862068966
+243,NA,MB,PT,30061,Mid Mon Valley Transit Authority,Charleroi,PA,736721,91,8095.8351648351645
+244,NA,MB,DO,90035,Gold Coast Transit District,Oxnard,CA,2071300,256,8091.015625
+245,NA,MB,DO,90041,Montebello Bus Lines,Montebello,CA,1726508,215,8030.2697674418605
+246,NA,MB,DO,10016,Greater Portland Transit District,Portland,ME,1345771,168,8010.541666666667
+247,NA,MB,DO,50099,Eau Claire Transit,Eau Claire,WI,696795,87,8009.137931034483
+248,NA,MB,PT,90031,Riverside Transit Agency,Riverside,CA,2142364,269,7964.17843866171
+249,NA,MB,DO,40035,Central Florida Regional Transportation Authority,Orlando,FL,14694662,1863,7887.633923778852
+250,NA,MB,DO,70019,University of Iowa,Iowa City,IA,625508,80,7818.85
+251,NA,MB,DO,90036,Orange County Transportation Authority,Orange,CA,9886451,1278,7735.8771517996875
+252,NA,MB,PT,90026,San Diego Metropolitan Transit System,San Diego,CA,11103840,1446,7679.004149377593
+253,NA,MB,DO,60018,Metropolitan Tulsa Transit Authority,Tulsa,OK,2354249,311,7569.932475884244
+254,NA,MB,PT,30027,Central Pennsylvania Transportation Authority,York,PA,98172,13,7551.692307692308
+255,NA,MB,DO,60014,Brownsville Metro,Brownsville,TX,752672,100,7526.72
+256,NA,MB,DO,40100,Santee Wateree Regional Transportation Authority,Sumter,SC,261535,35,7472.428571428572
+257,NA,MB,DO,00029,Snohomish County Public Transportation Benefit Area Corporation,Everett,WA,6115987,822,7440.373479318735
+258,NA,MB,DO,70005,Kansas City Area Transportation Authority,Kansas City,MO,5198722,709,7332.471086036671
+259,NA,MB,DO,90014,Alameda-Contra Costa Transit District,Oakland,CA,15721061,2169,7248.068695251268
+260,NA,MB,DO,40046,Sarasota County Area Transit,Sarasota,FL,1912248,265,7216.030188679245
+261,NA,MB,PT,90146,Foothill Transit,West Covina,CA,11098644,1557,7128.223506743738
+262,3,MB,DO,30030,Washington Metropolitan Area Transit Authority,Washington,DC,35554946,4995,7118.107307307308
+263,NA,MB,DO,30034,Maryland Transit Administration,Baltimore,MD,19472968,2750,7081.079272727273
+264,NA,MB,PT,30085,Prince George's County Transit,Upper Marlboro,MD,2737334,388,7054.984536082474
+265,NA,MB,DO,00007,Lane Transit District,Eugene,OR,2073463,296,7004.9425675675675
+266,NA,MB,PT,90017,City of Santa Rosa,Santa Rosa,CA,20969,3,6989.666666666667
+267,NA,MB,DO,40031,Lakeland Area Mass Transit District,Lakeland,FL,1421031,204,6965.838235294118
+268,NA,MB,DO,50060,Champaign-Urbana Mass Transit District,Urbana,IL,2889784,424,6815.528301886792
+269,NA,MB,PT,90147,City of Los Angeles Department of Transportation,Los Angeles,CA,7050029,1037,6798.485053037609
+270,NA,MB,DO,50016,Central Ohio Transit Authority,Columbus,OH,10338688,1536,6730.916666666667
+271,NA,MB,DO,40071,Department of Parking & Public Transit,Huntsville,AL,790645,118,6700.381355932203
+272,NA,MB,DO,50003,Kenosha Area Transit,Kenosha,WI,817940,124,6596.290322580645
+273,NA,MB,DO,40004,Metropolitan Transit Authority,Madison,TN,5692335,869,6550.443037974684
+274,NA,MB,DO,30027,Central Pennsylvania Transportation Authority,York,PA,1222633,187,6538.144385026738
+275,NA,MB,DO,00024,Clark County Public Transportation Benefit Area Authority,Vancouver,WA,3726686,570,6538.045614035088
+276,NA,MB,PT,41199,Area Regional Transit - ART,Fort Pierce,FL,522913,80,6536.4125
+277,NA,MB,DO,60056,Dallas Area Rapid Transit,Dallas,TX,20519289,3146,6522.342339478703
+278,NA,MB,DO,80007,Pueblo Transit,Pueblo,CO,482040,74,6514.054054054054
+279,NA,MB,PT,20175,Private Transportation Corporation,Brooklyn,NY,110101,17,6476.529411764706
+280,NA,MB,DO,00003,Pierce County Transportation Benefit Area Authority,Lakewood,WA,4227441,653,6473.87595712098
+281,NA,MB,DO,80012,Great Falls Transit District,Great Falls,MT,430464,67,6424.835820895522
+282,NA,MB,DO,50033,The Rapid,Grand Rapids,MI,5138612,800,6423.265
+283,NA,MB,PT,10045,Connecticut Department of Transportation - CTTransit New Britain -Dattco.,New Britain,CT,183331,29,6321.758620689655
+284,NA,MB,DO,50010,METRO Regional Transit Authority,Akron,OH,3252489,522,6230.8218390804595
+285,NA,MB,DO,30051,"Ride On, Montgomery County Transit",Rockville,MD,11942779,1918,6226.683524504692
+286,NA,MB,DO,90026,San Diego Metropolitan Transit System,San Diego,CA,9426104,1520,6201.384210526316
+287,NA,MB,DO,90031,Riverside Transit Agency,Riverside,CA,4099097,664,6173.338855421687
+288,NA,MB,PT,40224,Mountain Mobility,Asheville,NC,129400,21,6161.9047619047615
+289,NA,MB,DO,80009,Mountain Line,Missoula,MT,633207,103,6147.640776699029
+290,NA,MB,DO,60015,City of Galveston Island Transit,Galveston,TX,225632,37,6098.1621621621625
+291,NA,MB,PT,50149,Michiana Area Council of Governments,South Bend,IN,605941,100,6059.41
+292,NA,MB,DO,30022,Port Authority of Allegheny County,Pittsburgh,PA,18748966,3127,5995.8317876559
+293,NA,MB,DO,90027,Fresno Area Express,Fresno,CA,4788756,799,5993.436795994994
+294,4,MB,DO,30019,Southeastern Pennsylvania Transportation Authority,Philadelphia,PA,39188981,6575,5960.301292775665
+295,NA,MB,DO,50117,Laketran,Painesville,OH,952811,160,5955.06875
+296,NA,MB,DO,00006,Yakima Transit,Yakima,WA,710402,120,5920.016666666666
+297,NA,MB,DO,70010,Des Moines Area Regional Transit Authority,Des Moines,IA,3067909,524,5854.788167938931
+298,NA,MB,DO,40014,Coast Transit Authority,Gulfport,MS,784178,134,5852.074626865671
+299,NA,MB,DO,40042,Birmingham-Jefferson County Transit Authority,Birmingham,AL,1810653,312,5803.375
+300,NA,MB,DO,30015,Luzerne County Transportation Authority,Kingston,PA,1203261,208,5784.908653846154
+301,NA,MB,DO,80004,Metropolitan Transit System,Billings,MT,599695,104,5766.298076923077
+302,NA,MB,DO,50006,RYDE,Racine,WI,926135,161,5752.391304347826
+303,NA,MB,PT,40158,LakeXpress,Tavares,FL,548750,96,5716.145833333333
+304,NA,MB,DO,90008,Big Blue Bus,Santa Monica,CA,3921249,686,5716.106413994169
+305,NA,MB,DO,20002,Capital District Transportation Authority,Albany,NY,8588785,1504,5710.628324468085
+306,NA,MB,DO,60114,STAR Transit,Terrell,TX,194113,34,5709.205882352941
+307,NA,MB,PT,30030,Washington Metropolitan Area Transit Authority,Washington,DC,776257,136,5707.77205882353
+308,NA,MB,DO,90079,SunLine Transit Agency,Thousand Palms,CA,2978952,530,5620.664150943397
+309,NA,MB,DO,30202,South Central Transit Authority,Lancaster,PA,3261988,581,5614.437177280551
+310,NA,MB,PT,40015,"JTRAN-City of Jackson, MS",Jackson,MS,614360,110,5585.090909090909
+311,NA,MB,PT,50001,Valley Transit,Appleton,WI,5583,1,5583
+312,NA,MB,DO,10001,Rhode Island Public Transit Authority,Providence,RI,9627384,1743,5523.456110154905
+313,NA,MB,PT,30068,Fairfax Connector Bus System,Fairfax,VA,10863043,1968,5519.838922764227
+314,NA,MB,DO,90039,Culver City Municipal Bus Lines,Culver City,CA,1335642,247,5407.457489878542
+315,NA,MB,PT,90171,Santa Clarita Transit,Santa Clarita,CA,1587991,297,5346.771043771044
+316,NA,MB,DO,00002,Spokane Transit Authority,Spokane,WA,6485325,1218,5324.568965517241
+317,NA,MB,DO,60032,New Orleans Regional Transit Authority,New Orleans,LA,5747849,1084,5302.443726937269
+318,NA,MB,DO,40012,Winston-Salem Transit Authority,Winston Salem,NC,1910783,363,5263.865013774105
+319,NA,MB,DO,40032,VOTRAN,Daytona Beach,FL,2896262,553,5237.363471971067
+320,NA,MB,DO,30083,Hampton Roads Transit,Hampton,VA,8991346,1720,5227.526744186047
+321,NA,MB,PT,90012,San Joaquin Regional Transit District,Stockton,CA,15626,3,5208.666666666667
+322,NA,MB,PT,20076,The Bee-Line System,White Plains,NY,7493145,1445,5185.567474048443
+323,NA,MB,DO,60101,Denton County Transportation Authority,Lewisville,TX,780316,153,5100.104575163398
+324,NA,MB,PT,90092,Fairfield and Suisun Transit,Fairfield,CA,509475,101,5044.306930693069
+325,NA,MB,DO,40047,Athens-Clarke County Transit Department,Athens,GA,744535,148,5030.641891891892
+326,NA,MB,DO,60019,ABQRIDE,Albuquerque,NM,3924705,781,5025.230473751601
+327,NA,MB,PT,90211,Anaheim Transportation Network,Anaheim,CA,720679,144,5004.715277777777
+328,NA,MB,DO,00012,Public Transportation,Anchorage,AK,2280229,456,5000.502192982456
+329,NA,MB,DO,30006,Greater Richmond Transit Company,Richmond,VA,4294608,861,4987.93031358885
+330,5,MB,DO,60008,"Metropolitan Transit Authority of Harris County, Texas",Houston,TX,26366843,5293,4981.455318344984
+331,NA,MB,DO,50017,Greater Dayton Regional Transit Authority,Dayton,OH,3655349,738,4953.047425474255
+332,NA,MB,PT,90136,Valley Metro,Phoenix,AZ,12114801,2455,4934.74582484725
+333,NA,MB,DO,70030,Coralville Transit System,Coralville,IA,196951,40,4923.775
+334,NA,MB,DO,00376,"Ride Connection, Inc.",Portland,OR,285434,58,4921.275862068966
+335,NA,MB,DO,10050,Greater Bridgeport Transit Authority,Bridgeport,CT,1780685,364,4891.991758241758
+336,NA,MB,DO,40001,Chattanooga Area Regional Transportation Authority,Chattanooga,TN,1787764,367,4871.291553133515
+337,NA,MB,DO,50184,Macatawa Area Express Transportation Authority,Holland,MI,325693,67,4861.089552238806
+338,NA,MB,DO,80002,Sioux Area Metro,Sioux Falls,SD,487831,101,4830.009900990099
+339,NA,MB,DO,80011,Transfort,Fort Collins,CO,1045290,219,4773.013698630137
+340,NA,MB,DO,90004,Golden Empire Transit District,Bakersfield,CA,2913459,612,4760.553921568628
+341,NA,MB,PT,90241,County of Maui,Wailuku,HI,1402303,295,4753.5694915254235
+342,NA,MB,DO,50052,South Bend Public Transportation Corporation,South Bend,IN,1278850,270,4736.481481481482
+343,NA,MB,DO,90012,San Joaquin Regional Transit District,Stockton,CA,1443824,306,4718.3790849673205
+344,NA,MB,DO,10055,Connecticut Department of Transportation - CTTRANSIT New Haven Division,Hartford,CT,4369828,930,4698.739784946237
+345,NA,MB,DO,50005,City of Madison,Madison,WI,4321376,921,4692.047774158524
+346,NA,MB,DO,00005,EVERETT TRANSIT,Everett,WA,1115803,239,4668.6317991631795
+347,NA,MB,DO,10086,Cooperative Alliance for Seacoast Transportation,Dover,NH,580673,126,4608.515873015873
+348,NA,MB,DO,50012,Metro / Access,Cincinnati,OH,9985241,2170,4601.493548387097
+349,NA,MB,PT,90233,Yuma County Intergovernmental Public Transportation Authority,Yuma,AZ,785886,173,4542.693641618497
+350,NA,MB,DO,70015,Wichita Transit,Wichita,KS,1697197,374,4537.959893048128
+351,NA,MB,PT,40018,Transit Authority of River City,Louisville,KY,18145,4,4536.25
+352,NA,MB,DO,70001,StarTran,Lincoln,NE,1423637,315,4519.48253968254
+353,NA,MB,DO,50057,Rock Island County Metropolitan Mass Transit District,Moline,IL,2136647,476,4488.754201680672
+354,NA,MB,DO,60010,CITIBUS,Lubbock,TX,1333665,298,4475.385906040268
+355,NA,MB,DO,50034,Jackson Area Transportation Authority,Jackson,MI,351282,79,4446.607594936709
+356,NA,MB,DO,50025,Duluth Transit Authority,Duluth,MN,1870758,424,4412.165094339623
+357,NA,MB,DO,60011,VIA Metropolitan Transit,San Antonio,TX,19127620,4412,4335.362647325476
+358,6,MB,DO,20188,MTA Bus Company,New York,NY,25876153,5997,4314.849591462398
+359,NA,MB,DO,20071,Huntington Area Rapid Transit,Huntington,NY,376308,88,4276.227272727273
+360,NA,MB,DO,10057,Norwalk Transit District,Norwalk,CT,778369,184,4230.266304347826
+361,NA,MB,PT,40034,Transportation & Public Work,Miami,FL,1704443,407,4187.820638820639
+362,NA,MB,DO,90023,Long Beach Transit,Long Beach,CA,5819512,1391,4183.689432063264
+363,NA,MB,DO,50050,Indianapolis and Marion County Public Transportation,Indianapolis,IN,7063747,1702,4150.262632197415
+364,NA,MB,DO,40026,Manatee County Area Transit,Sarasota,FL,1478881,357,4142.523809523809
+365,NA,MB,DO,50027,Metro Transit,Minneapolis,MN,18842935,4601,4095.399913062378
+366,NA,MB,DO,40009,Fayetteville Area System of Transit,Fayetteville,NC,1025430,256,4005.5859375
+367,NA,MB,PT,90002,City & County of Honolulu DTS,Honolulu,HI,17183540,4295,4000.824214202561
+368,NA,MB,DO,60022,Capital Area Transit System,Baton Rouge,LA,2517700,632,3983.7025316455697
+369,NA,MB,DO,30094,Harrisonburg Department of Public Transportation,Harrisonburg,VA,603509,153,3944.503267973856
+370,NA,MB,DO,90042,GTrans,Gardena,CA,1155229,295,3916.0305084745764
+371,NA,MB,DO,20004,Niagara Frontier Transportation Authority,Buffalo,NY,7314694,1886,3878.4167550371158
+372,NA,MB,PT,40008,Charlotte Area Transit System,Charlotte,NC,9269707,2392,3875.295568561873
+373,NA,MB,PT,50096,Waukesha Metro Transit,Waukesha,WI,115941,30,3864.7
+374,NA,MB,DO,30058,CUE Bus,Fairfax,VA,431985,112,3857.0089285714284
+375,NA,MB,DO,70041,CyRide,Ames,IA,1276110,331,3855.317220543807
+376,NA,MB,PT,90033,City of Tucson,Tucson,AZ,7533020,1957,3849.269289729177
+377,NA,MB,PT,30077,Pottstown Area Rapid Transit,Pottstown,PA,277258,73,3798.054794520548
+378,NA,MB,PT,60008,"Metropolitan Transit Authority of Harris County, Texas",Houston,TX,7721021,2036,3792.25
+379,NA,MB,DO,40041,Hillsborough Area Regional Transit Authority,Tampa,FL,6544375,1730,3782.875722543353
+380,NA,MB,DO,40057,Jackson Transit Authority,Jackson,TN,517652,138,3751.1014492753625
+381,NA,MB,DO,50059,Sangamon Mass Transit District,Springfield,IL,1812857,487,3722.4989733059547
+382,NA,MB,PT,10008,Pioneer Valley Transit Authority,Springfield,MA,4680280,1258,3720.4133545310015
+383,NA,MB,PT,10007,Berkshire Regional Transit Authority,Pittsfield,MA,835416,225,3712.96
+384,NA,MB,DO,80025,City of Loveland Transit,Loveland,CO,310768,85,3656.0941176470587
+385,NA,MB,PT,40094,Alternativa de Transporte Integrado -ATI,San Juan,PR,923900,263,3512.927756653992
+386,NA,MB,DO,40036,StarMetro,Tallahassee,FL,1919608,548,3502.934306569343
+387,NA,MB,DO,10048,Connecticut Department of Transportation - CTTRANSIT - Hartford Division,Hartford,CT,8697066,2510,3464.966533864542
+388,NA,MB,DO,80028,Cache Valley Transit District,Logan,UT,1144494,332,3447.2710843373493
+389,7,MB,DO,90154,Metro,Los Angeles,CA,57210088,17035,3358.3849721162314
+390,NA,MB,DO,90219,Mountain Line public transit,Flagstaff,AZ,912707,274,3331.0474452554745
+391,NA,MB,PT,30070,Potomac and Rappahannock Transportation Commission,Woodbridge,VA,1272683,385,3305.67012987013
+392,NA,MB,DO,50031,Suburban Mobility Authority for Regional Transportation,Detroit,MI,9279554,2813,3298.8105225737645
+393,NA,MB,DO,90010,Torrance Transit System,Torrance,CA,1521332,483,3149.7556935817806
+394,NA,MB,PT,20206,Nassau Inter County Express,Mineola,NY,8373637,2662,3145.6187077385425
+395,NA,MB,DO,50158,University of Michigan Parking and Transportation Services,Ann Arbor,MI,1119961,363,3085.2920110192836
+396,NA,MB,DO,40034,Transportation & Public Work,Miami,FL,23797513,7720,3082.5794041450777
+397,NA,MB,PT,70044,KU Transportation Services,Lawrence,KS,281832,92,3063.391304347826
+398,NA,MB,DO,40029,Broward County Transit Division,Fort Lauderdale,FL,13932065,4605,3025.4212812160695
+399,NA,MB,DO,50004,LaCrosse Municipal Transit Utility,La Crosse,WI,887773,301,2949.4119601328903
+400,NA,MB,PT,10004,Brockton Area Transit Authority,Brockton,MA,1139921,388,2937.9407216494847
+401,NA,MB,DO,50058,Rockford Mass Transit District,Rockford,IL,1274174,435,2929.135632183908
+402,NA,MB,PT,10006,Southeastern Regional Transit Authority,New Bedford,MA,1661461,569,2919.9666080843585
+403,NA,MB,DO,60091,Hill Country Transit District,San Saba,TX,450388,155,2905.7290322580643
+404,NA,MB,DO,50035,Central County Transportation Authority,Kalamazoo,MI,1345175,468,2874.3055555555557
+405,NA,MB,DO,90034,City of Glendale,Glendale,AZ,93715,33,2839.848484848485
+406,NA,MB,PT,30112,DDOT - Progressive Transportation Services Administration,Washington,DC,1251101,443,2824.155756207675
+407,NA,MB,DO,70003,"City Utilities of Springfield, MO",Springfield,MO,1086478,392,2771.627551020408
+408,NA,MB,DO,30091,Blacksburg Transit,Blacksburg,VA,904509,334,2708.1107784431138
+409,NA,MB,PT,50008,Milwaukee County Transit System,Milwaukee,WI,16422120,6123,2682.0382165605097
+410,NA,MB,DO,10056,Connecticut Department of Transportation - CTTRANSIT Stamford Division,Hartford,CT,1534170,576,2663.4895833333335
+411,NA,MB,DO,90029,Omnitrans,San Bernardino,CA,5752876,2179,2640.145020651675
+412,NA,MB,DO,30002,The Tri-State Transit Authority,Hunnington,WV,880710,336,2621.160714285714
+413,8,MB,DO,00001,King County Metro,Seattle,WA,29908625,11413,2620.575221238938
+414,NA,MB,PT,20078,MTA Metro-North Railroad,New York,NY,132117,52,2540.7115384615386
+415,NA,MB,DO,30012,Cambria County Transit Authority,Johnstown,PA,1040602,420,2477.6238095238095
+416,NA,MB,PT,90156,City of San Luis Obispo,San Luis Obispo,CA,330244,137,2410.5401459854015
+417,NA,MB,DO,30001,Kanawha Valley Regional Transportation Authority,Charleston,WV,2087459,872,2393.875
+418,NA,MB,PT,50036,Capital Area Transportation Authority,Lansing,MI,4770,2,2385
+419,NA,MB,DO,50011,Stark Area Regional Transit Authority,Canton,OH,2242539,948,2365.5474683544303
+420,NA,MB,DO,10040,Southeast Area Transit District,Preston,CT,1029911,436,2362.1811926605506
+421,NA,MB,PT,80005,Mountain Metropolitan Transit,Colorado Springs,CO,2466408,1054,2340.045540796964
+422,NA,MB,DO,90022,Norwalk Transit System,Norwalk,CA,1006323,440,2287.0977272727273
+423,NA,MB,DO,40003,Memphis Area Transit Authority,Memphis,TN,4204626,1846,2277.6955579631635
+424,9,MB,DO,40022,Metropolitan Atlanta Rapid Transit Authority,Atlanta,GA,23919052,10712,2232.921209858103
+425,NA,MB,PT,50159,River Valley Metro Mass Transit District,Bourbonnais,IL,844927,383,2206.0757180156656
+426,NA,MB,DO,40058,City of Rome Transit Department,Rome,GA,284589,130,2189.146153846154
+427,NA,MB,DO,50119,Detroit Department of Transportation,Detroit,MI,8748721,4042,2164.453488372093
+428,10,MB,DO,50066,Chicago Transit Authority,Chicago,IL,44199272,20433,2163.1317966035335
+429,NA,MB,DO,50047,Bloomington-Normal Public Transit System,Normal,IL,1215890,573,2121.9720767888307
+430,NA,MB,DO,80107,UDASH,Missoula,MT,62142,30,2071.4
+431,NA,MB,DO,40180,University of Georgia Transit System,Athens,GA,451324,219,2060.840182648402
+432,NA,MB,DO,30075,Delaware Transit Corporation,Dover,DE,7290523,3550,2053.6684507042255
+433,NA,MB,DO,50045,Gary Public Transportation Corporation,Gary,IN,788671,398,1981.5854271356784
+434,NA,MB,DO,20003,Department of Transportation/BC Transit,Binghamton,NY,1166783,589,1980.955857385399
+435,NA,MB,DO,50056,Greater Peoria Mass Transit District,Peoria,IL,2128576,1095,1943.9050228310502
+436,NA,MB,DO,40018,Transit Authority of River City,Louisville,KY,6372079,3520,1810.2497159090908
+437,NA,MB,DO,40021,Albany Transit System,NA,GA,394719,221,1786.0588235294117
+438,NA,MB,DO,60038,Lafayette Transit System,Lafayette,LA,748618,441,1697.546485260771
+439,NA,MB,DO,70016,Go COMO,Columbia,MO,405631,261,1554.1417624521073
+440,NA,MB,DO,50522,Lake Erie Transit,Monroe,MI,235591,154,1529.8116883116884
+441,NA,MB,PT,30201,City of Baltimore,Baltimore,MD,459740,319,1441.191222570533
+442,NA,MB,DO,70002,Transit Authority of Omaha,Omaha,NE,3590120,2518,1425.7823669579032
+443,NA,MB,DO,10014,Worcester Regional Transit Authority,Worcester,MA,2019637,1561,1293.809737347854
+444,NA,MB,PT,60048,Capital Metro,Austin,TX,13955659,12576,1109.7057092875318
+445,NA,MB,DO,91092,Tahoe Transportation District,Stateline,NV,208928,195,1071.425641025641
+446,NA,MB,DO,90013,Santa Clara Valley Transportation Authority,San Jose,CA,14058542,13660,1029.1758418740849
+447,NA,MB,PT,40005,ART (Asheville Redefines Transit),Asheville,NC,1287477,1342,959.3718330849479
+448,NA,MB,PT,40023,Augusta Richmond County Transit Department,Augusta,GA,434090,1986,218.57502517623362

@@ -1,3 +1,8 @@
-# ntd
+# National Transit Breakdown Rankings
 
-Clean breakdowns data from the National Transit Database (NTD) by the Federal Transit Administration (FTA).
+Ranking transit agencies by how often they break down. Data come from the FTA's [National Transit Database](https://www.transit.dot.gov/ntd/what-national-transit-database-ntd-program).
+
+## Contents
+
+- [`breakdowns_2021.csv`](./breakdowns_2021.csv)
+- [`breakdowns_2022.csv`](./breakdowns_2022.csv)
