@@ -73,11 +73,14 @@ clean = clean %>%
     clean_2021 %>%
       select(
         `NTD ID`, Mode, `Type of Service`,
-        `Rank (2021)` = Rank,
+        `Mean Miles Between Breakdowns (2021)` = `Mean Miles Between Breakdowns`,
+        `Rank (2021)` = Rank
       ),
     by = c("NTD ID", "Mode", "Type of Service")
   ) %>%
   dplyr::mutate(`Rank Change` = `Rank (2021)` - Rank)
+
+rm(clean_2021)
 
 ##############
 ### Checks ###
