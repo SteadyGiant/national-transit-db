@@ -77,7 +77,7 @@ clean = clean %>%
       ),
     by = c("NTD ID", "Mode", "Type of Service")
   ) %>%
-  dplyr::mutate(`Rank Change` = Rank - `Rank (2021)`)
+  dplyr::mutate(`Rank Change` = `Rank (2021)` - Rank)
 
 ##############
 ### Checks ###
