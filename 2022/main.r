@@ -35,6 +35,10 @@ clean = raw %>%
   ) %>%
   dplyr::arrange(Mode, Rank)
 
+###############
+### Biggest ###
+###############
+
 biggest = clean %>%
   dplyr::group_by(Mode) %>%
   dplyr::top_n(10, `Vehicle/Passenger Car Revenue Miles`) %>%
@@ -55,9 +59,42 @@ clean = clean %>%
 
 rm(biggest)
 
+############
+### 2021 ###
+############
+
+clean_2021 = readr::read_csv(
+  "breakdowns_2021.csv",
+  col_types = readr::cols(`NTD ID` = readr::col_character())
+)
+
+clean = clean %>%
+  dplyr::left_join(
+    clean_2021 %>%
+      select(
+        `NTD ID`, Mode, `Type of Service`,
+        `Rank (2021)` = Rank,
+      ),
+    by = c("NTD ID", "Mode", "Type of Service")
+  ) %>%
+  dplyr::mutate(`Rank Change` = Rank - `Rank (2021)`)
+
+##############
+### Checks ###
+##############
+
 clean %>%
   dplyr::filter(!is.na(`Rank, 10 Biggest`)) %>%
   dplyr::arrange(Mode, `Rank, 10 Biggest`) %>%
   dplyr::select(-Rank) # %>% View()
+
+# These must have had questionable data in 2021 but not 2022.
+clean %>%
+  dplyr::filter(is.na(`Rank (2021)`)) %>% # View()
+  nrow()
+
+##############
+### Export ###
+##############
 
 readr::write_csv(clean, "breakdowns_2022.csv")
